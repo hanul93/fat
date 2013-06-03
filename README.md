@@ -1,2 +1,2 @@
-# FAT 파일시스템 분석 도구
+# FAT File System Analysis Tool
 
